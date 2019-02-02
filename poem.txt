@@ -9,3 +9,4 @@ black
 yellow 
 blue
 gold
+indigo

@@ -8,3 +8,4 @@ white
 black
 yellow 
 blue
+gold
